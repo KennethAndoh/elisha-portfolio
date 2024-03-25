@@ -1,0 +1,79 @@
+<div class="service-back">
+    </div>
+    <div class="services">
+        <div class="role">
+            <h2>Literature Review Specialist</h2>
+            <p>Conduct comprehensive literature reviews related to GIS, remote sensing, and geospatial analysis for various research projects.</p>
+            <p>Summarize key findings and contribute to the development of project proposals.</p>
+        </div>
+        <div class="role">
+            <h2>Data Collection and Processing</h2>
+            <p>Collect and compile geospatial data from various sources such as satellites, surveys, and fieldwork.</p>
+            <p>Organize and clean datasets for analysis, ensuring data integrity and accuracy.</p>
+        </div>
+        <div class="role">
+            <h2>Geospatial Analysis</h2>
+            <p>Perform spatial analyses using ArcGIS, QGIS, and GRASS GIS to study human-environment interactions.</p>
+            <p>Analyze movement patterns of wildlife species and delineate habitats based on remote sensing data.</p>
+        </div>
+        <div class="role">
+            <h2>Water Quality Assessment</h2>
+            <p>Conduct water quality monitoring using GIS tools to assess parameters like temperature, conductivity, and salinity.</p>
+            <p>Analyze data to evaluate the impact of anthropogenic activities on water bodies.</p>
+        </div>
+        <div class="role">
+            <h2>Report and Paper Writing</h2>
+            <p>Assist in writing research reports, academic papers, and presentations based on findings from GIS and remote sensing analyses.</p>
+            <p>Ensure proper citation and documentation of methods and results.</p>
+        </div>
+        <div class="role">
+            <h2>Spatial Data Management</h2>
+            <p>Manage spatial databases and ensure data quality and integrity.</p>
+            <p>Create and maintain geospatial datasets for various research projects.</p>
+        </div>
+        <div class="role">
+            <h2>Map Production and Visualization</h2>
+            <p>Generate maps illustrating wildlife habitat distributions, land use changes, and urban development impacts.</p>
+            <p>Use Adobe Illustrator for creating publication-quality maps and figures.</p>
+        </div>
+        <div class="role">
+            <h2>GIS Modeling</h2>
+            <p>Develop spatial models to simulate scenarios related to wetland encroachment, urban management, and conservation planning.</p>
+            <p>Apply MaxEnt for species distribution modeling and habitat suitability analysis.</p>
+        </div>
+        <div class="role">
+            <h2>Image Processing</h2>
+            <p>Process satellite imagery (e.g., Landsat) using software like Google Earth Engine and ENVI.</p>
+            <p>Perform spectral analysis to extract land cover information and identify wetland areas.</p>
+        </div>
+        <div class="role">
+            <h2>Change Detection</h2>
+            <p>Conduct change detection analysis to monitor land use changes over time.</p>
+            <p>Identify and quantify wetland encroachment using historical satellite imagery.</p>
+        </div>
+        <div class="role">
+            <h2>Heavy Metal Mapping</h2>
+            <p>Map spatial distribution of heavy metals in mining areas using remote sensing data.</p>
+            <p>Employ statistical tools and regression models to analyze metal prevalence and contamination levels.</p>
+        </div>
+        <div class="role">
+            <h2>Hyperspectral Analysis</h2>
+            <p>Analyze hyperspectral imagery for detailed characterization of wetlands and mining areas.</p>
+            <p>Identify unique spectral signatures related to vegetation health and metal concentrations.</p>
+        </div>
+        <div class="role">
+            <h2>Public Speaking and Outreach</h2>
+            <p>Present research findings at conferences, workshops, and seminars.</p>
+            <p>Engage in outreach activities to disseminate knowledge on GIS, remote sensing, and environmental conservation.</p>
+        </div>
+        <div class="role">
+            <h2>Project Coordination</h2>
+            <p>Assist in project planning, timeline management, and coordination of fieldwork and data collection efforts.</p>
+            <p>Collaborate with team members and external partners to achieve project goals.</p>
+        </div>
+        <div class="role">
+            <h2>Training and Mentoring</h2>
+            <p>Provide training sessions on GIS and remote sensing techniques for students and researchers.</p>
+            <p>Mentor junior researchers and assist in their skill development in geospatial analysis.</p>
+        </div>     
+    </div>
